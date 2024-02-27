@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-  FullStack Developer • Data Scientist • Youtuber
+  Data Analyst • Data Scientist • Youtuber
 </h3>
 
 <div align="center">

@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-  Data Analyst • Data Scientist • Youtuber
+  Data Analyst • Data Engineer • Data Scientist • BI Analyst • Youtuber
 </h3>
 
 <div align="center">
